@@ -1,0 +1,9 @@
+C:\Users\Kamo\documents\visual studio 2013\Projects\CanpangoWebApi\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\Kamo\documents\visual studio 2013\Projects\CanpangoWebApi\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Kamo\documents\visual studio 2013\Projects\CanpangoWebApi\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Kamo\documents\visual studio 2013\Projects\CanpangoWebApi\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Kamo\documents\visual studio 2013\Projects\CanpangoWebApi\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kamo\documents\visual studio 2013\Projects\CanpangoWebApi\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Kamo\documents\visual studio 2013\Projects\CanpangoWebApi\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kamo\documents\visual studio 2013\Projects\CanpangoWebApi\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Kamo\documents\visual studio 2013\Projects\CanpangoWebApi\BusinessLogic\obj\Debug\BusinessLogic.pdb

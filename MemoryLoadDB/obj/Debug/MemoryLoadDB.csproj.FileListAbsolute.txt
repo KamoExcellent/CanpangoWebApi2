@@ -1,0 +1,9 @@
+C:\Users\Kamo\documents\visual studio 2013\Projects\CanpangoWebApi\MemoryLoadDB\obj\Debug\MemoryLoadDB.csprojResolveAssemblyReference.cache
+C:\Users\Kamo\documents\visual studio 2013\Projects\CanpangoWebApi\MemoryLoadDB\bin\Debug\MemoryLoadDB.dll
+C:\Users\Kamo\documents\visual studio 2013\Projects\CanpangoWebApi\MemoryLoadDB\bin\Debug\MemoryLoadDB.pdb
+C:\Users\Kamo\documents\visual studio 2013\Projects\CanpangoWebApi\MemoryLoadDB\bin\Debug\BusinessLogic.dll
+C:\Users\Kamo\documents\visual studio 2013\Projects\CanpangoWebApi\MemoryLoadDB\bin\Debug\EntityFramework.dll
+C:\Users\Kamo\documents\visual studio 2013\Projects\CanpangoWebApi\MemoryLoadDB\bin\Debug\BusinessLogic.pdb
+C:\Users\Kamo\documents\visual studio 2013\Projects\CanpangoWebApi\MemoryLoadDB\bin\Debug\EntityFramework.xml
+C:\Users\Kamo\documents\visual studio 2013\Projects\CanpangoWebApi\MemoryLoadDB\obj\Debug\MemoryLoadDB.dll
+C:\Users\Kamo\documents\visual studio 2013\Projects\CanpangoWebApi\MemoryLoadDB\obj\Debug\MemoryLoadDB.pdb
